@@ -5,7 +5,7 @@ To use the script:
 
 -->Clone :
 
-    #git clone https://github.com/Raghav-Guru/Create-CA-signed-certs-in-JKS-format-keystore.git
+    #git clone https://github.com/krishna4291083/Create-CA-signed-certs-in-JKS-format-keystore.git
     #cd Create-CA-signed-certs-in-JKS-format-keystore
 
 -->Modify the input.ini as per the requirement.
